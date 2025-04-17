@@ -1,0 +1,35 @@
+
+
+img{
+    display: block;
+    justify-self: center;
+}
+p{
+    background-color: white;
+}
+body{
+    background-color: palegreen;
+}
+h1,h2,h3{
+    text-align: center;
+    background-color: lightblue;
+}
+div{
+    align-content: center;
+    justify-content: center;
+   justify-self: center;
+}
+ol{
+    background-color: aquamarine;
+    justify-self: center;
+}
+ul{
+    background-color: bisque;
+    width: auto;
+    height: auto;
+    justify-self:center;
+}
+li{
+    width: auto;
+    height: auto;
+}
